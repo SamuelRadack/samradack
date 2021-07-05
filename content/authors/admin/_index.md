@@ -14,23 +14,24 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: replace
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sports Analytics
+- Machine Learnings
+- Behavioral Economics
 
 # Education to show in About widget
 education:
   courses:
-  - course: BS in Economics
-    institution: University of Wisconsin Madison
-    year: 2019
   - course: MS in Applied Mathematics
     institution: University of Colorado Boulder
     year: 2021
+  - course: BS in Economics
+    institution: University of Wisconsin Madison
+    year: 2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
