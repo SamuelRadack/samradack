@@ -1,5 +1,5 @@
 ---
-title: R Shiny App
+title: StatsBomb Free Data Dribbles Heat Map
 subtitle: Mapping Dribbles Heat Maps
 
 # Link this post with a project
@@ -34,7 +34,7 @@ tags:
 - R
 ---
 
-### StatsBomb Free Data Dribbles Heat Map
+### R Shiny App
 An R Shiny Application for visualizing a given player's dribbles in a given competition and year.
 
 * [Application](https://samuelradack.shinyapps.io/dribblesHeatMap/)
