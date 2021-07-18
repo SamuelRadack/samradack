@@ -1,5 +1,5 @@
 ---
-title: R Shiny App
+title: Basketball Reference Data Shooting Diet Nearest Neighbors
 subtitle: NBA 2020-2021 Shot Diet and Efficiency Rose Diagram - Three Nearest Neighbors
 
 # Link this post with a project
@@ -34,8 +34,8 @@ tags:
 - R
 ---
 
-### StatsBomb Free Data Dribbles Heat Map
-An R Shiny Application for visualizing a given player's three nearest neighbors in terms of shooting diet.
+### R Shiny App
+An R Shiny Application for visualizing a given player's three nearest neighbors in terms of shooting diet. The method used is finding the Euclidian distance between players given their proportion of shots taken from five different ranges.
 
 * [Application](https://samuelradack.shinyapps.io/Shooting_Neighbors/)
 
