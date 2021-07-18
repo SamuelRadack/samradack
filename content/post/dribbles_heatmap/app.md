@@ -30,7 +30,7 @@ authors:
 - Samuel Radack
 - StatsBomb
 
-![pitch](img/pitch.jpg)
+![pitch](https://github.com/SamuelRadack/samradack/blob/master/content/post/dribbles_heatmap/pitch.jpg)
 
 tags:
 - Data Visualization
