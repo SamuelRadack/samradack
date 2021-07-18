@@ -30,7 +30,7 @@ authors:
 - Samuel Radack
 - StatsBomb
 
-![featured](./featured.jpg)
+![featured](img/featured.jpg)
 
 tags:
 - Data Visualization
