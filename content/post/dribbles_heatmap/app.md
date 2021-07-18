@@ -20,7 +20,6 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 
-
 image:
   focal_point: ""
   placement: 2
@@ -34,8 +33,9 @@ tags:
 - Data Visualization
 - Soccer
 - R
+
+
 ---
-![pitch](https://github.com/SamuelRadack/samradack/blob/master/content/post/dribbles_heatmap/pitch.jpg)
 
 An R Shiny Application for visualizing a given player's dribbles in a given competition and year.
 
