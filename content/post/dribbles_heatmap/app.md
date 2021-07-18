@@ -30,13 +30,12 @@ authors:
 - Samuel Radack
 - StatsBomb
 
-![pitch](https://github.com/SamuelRadack/samradack/blob/master/content/post/dribbles_heatmap/pitch.jpg)
-
 tags:
 - Data Visualization
 - Soccer
 - R
 ---
+![pitch](https://github.com/SamuelRadack/samradack/blob/master/content/post/dribbles_heatmap/pitch.jpg)
 
 An R Shiny Application for visualizing a given player's dribbles in a given competition and year.
 
