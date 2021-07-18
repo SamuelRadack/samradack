@@ -19,6 +19,8 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+
+
 image:
   focal_point: ""
   placement: 2
@@ -27,6 +29,8 @@ image:
 authors:
 - Samuel Radack
 - StatsBomb
+
+![featured](/img/featured.jpg)
 
 tags:
 - Data Visualization
