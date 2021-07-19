@@ -27,17 +27,6 @@ module:
 
 
 ############################
-## STATIC DIR
-############################
-
-staticDir:
-- static
-
-RelativeURLs = true
-CanonifyURLs = true
-
-
-############################
 ## ADVANCED
 ############################
 
