@@ -37,6 +37,7 @@ tags:
 
 ---
 ![pitch](img/pitch.jpg)
+
 An R Shiny Application for visualizing a given player's dribbles in a given competition and year.
 
 * [Application](https://samuelradack.shinyapps.io/dribblesHeatMap/)
