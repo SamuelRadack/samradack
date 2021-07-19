@@ -36,7 +36,6 @@ tags:
 
 
 ---
-![roseplot](img/rospelot.jpeg)
 ![pitch](img/pitch.jpg)
 
 An R Shiny Application for visualizing a given player's dribbles in a given competition and year.
