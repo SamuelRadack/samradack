@@ -42,9 +42,13 @@ url_video: ""
   Below is an example of a Lorenz curve. This is the visualization of how the Gini coefficient is calculated. In our example, we use data from the 2020-2021 Brooklyn Nets. The diagonal line in the diagram would represent a roster with perfect equality. This would mean the salary of all the players is equal for that given year. The Gini coefficient is equal to the area of the blue shaded area under that diagonal line divided by itself. That value is equal to 1. Intuitively, a perfectly unequal salary distribution, where only one player is paid, would tend towards a Gini coefficient of 0. The Nets’ Lorenz Curve is represented by the curved line and the red shaded are under that line. The gini coefficient for them would therefore be the red area divided by the area under the diagonal curve. This leads to a gini coefficient of 0.176. This is a relatively unequal distribution when compared to the larger landscape of NBA history.
   
   
+![lorenz_curve](/img/lorenze_curve.png)
+  
   Next we will analyze the trend in the median gini coefficient by year. In the visual below the blue line represents the downward tendency of salary equality in the past three decades. The vertical redlines show the years when the collective bargain agreements were renegotiated. These renegotiations do not have a clear effect on the inequality of player’s salaries. One thing that is interesting to note is the rise in the median gini coefficient in the 2020-2021 season. This is likely due to the way two-way contracts were handled by the NBA. Because those two-way players counted on the rosters, the max contracts represented a smaller portion of the roster.
   
-  
+![gini_over_time](/img/gini_over_time.png)
+
   Finally, we will examine the relationship between salary distribution and team success. 
 
+![team_performance](/img/team_performance.png)
 
