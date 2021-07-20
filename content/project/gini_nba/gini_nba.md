@@ -14,9 +14,9 @@ image:
   focal_point: 
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
+- icon: 
+  icon_pack:
+  name: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
