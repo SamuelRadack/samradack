@@ -14,9 +14,9 @@ image:
   focal_point: 
 
 links:
-- icon: 
-  icon_pack:
-  name: 
+# - icon: 
+ # icon_pack:
+ # name: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
