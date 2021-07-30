@@ -44,11 +44,13 @@ url_video: ""
   
 ![lorenz_curve](/img/lorenze_curve.png)
   
-  Next we will analyze the trend in the median gini coefficient by year. In the visual below the blue line represents the downward tendency of salary equality in the past three decades. The vertical redlines show the years when the collective bargain agreements were renegotiated. These renegotiations do not have a clear effect on the inequality of player’s salaries. One thing that is interesting to note is the rise in the median gini coefficient in the 2020-2021 season. This is likely due to the way two-way contracts were handled by the NBA. Because those two-way players counted on the rosters, the max contracts represented a smaller portion of the roster.
+  Next we will analyze the trend in the median gini coefficient by year. In the visual below the blue line represents the downward tendency of salary equality in the past three decades. The vertical redlines show the years when the collective bargaining agreements were renegotiated. These renegotiations do not have a clear effect on the inequality of player’s salaries. One thing that is interesting to note is the rise in the median gini coefficient in the 2020-2021 season. This is likely due to the way two-way contracts were handled by the NBA. Because those two-way players counted on the rosters, the max contracts represented a smaller portion of the roster.
   
 ![gini_over_time](/img/gini_over_time.png)
 
-  Finally, we will examine the relationship between salary distribution and team success. 
+  Finally, we will examine the relationship between salary distribution and team success. Below is a scatter plot of the gini coefficient and winning percentage of each team from the 1990-1991 season until the present. Playoff teams are colored green and championship teams are colored blue. There is no clear trend to be drawn from this relationship. What we can glean from this is that there is no correct way to distribute salary between players, at least when it comes to the equality of their contracts.
 
 ![team_performance](/img/team_performance.png)
+
+  In the future I would like to explore the implications of total salary cost on team performance. I assume that this may present a stronger relationship (a team that pays the luxury tax is likely doing so to maintain a roster of high quality player). I would also like to examine a measure of inequality based on usage percentage and minutes played. Could sharing on court responsibility in a more equitable way yield better results, or should teams aim for a heliocentric style offense like those of the James Harden Rockets and Luka Doncic Mavericks.
 
