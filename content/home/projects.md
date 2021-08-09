@@ -24,22 +24,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-    
-  [[content.filter_button]]
-    name = "Software"
-    tag = "Software"
+ 
+   [[content.filter_button]]
+    name = "Basketball"
+    tag = "Basketball"
     
    [[content.filter_button]]
-    name = "NCAA Basketball"
-    tag = "NCAA Basketball"
-    
-  [[content.filter_button]]
-    name = "NIST"
-    tag = "NIST"
-
-   [[content.filter_button]]
-    name = "Data Journalism"
-    tag = "Data Journalism"
+    name = "Soccer"
+    tag = "Soccer"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
