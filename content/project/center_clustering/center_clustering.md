@@ -1,6 +1,7 @@
 ---
 title: Clustering NBA Centers based on 2020-21 NBA Season Play Type Frequencies
 subtitle: Classifying Centers into Four Offensive Archetypes
+summary: By Samuel R Radack
 tags:
 - Data Visualization
 - Basketball
