@@ -1,8 +1,14 @@
 ---
-title: Center Clustering
-summary: By Samuel R Radack
+title: Clustering NBA Centers based on 2020-21 NBA Season Play Type Frequencies
+subtitle: Classifying Centers into Four Offensive Archetypes
 tags:
-- Soccer
+- Data Visualization
+- Basketball
+- Machine Learning
+- R
+authors:
+- Samuel Radack
+- Basketball Reference
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,4 +36,6 @@ url_video: ""
 ---
 Write up here
 
+
+* [Application](https://samuelradack.shinyapps.io/Center_Clustering/)
 
