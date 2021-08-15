@@ -58,6 +58,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-My name is Samuel Radack. In graduated from the University of Wisconsin Madison in 2019 with a bachelors in Economics. I recently graduated from the University of Colorado Boulder with my masters in Applied Math.
+My name is Samuel Radack. I graduated from the University of Wisconsin Madison in 2019 with a bachelors in Economics. I recently graduated from the University of Colorado Boulder with my masters in Applied Math.
 
 My primary interests include sports analytics, specifically basketball and soccer, as well as behavioral economics. I am currently looking for employment.
